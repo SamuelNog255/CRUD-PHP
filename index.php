@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-        $samuel="amar";
+        $samuel="w";
         $q="samuel";
         echo "Hello World!".$q;
         
