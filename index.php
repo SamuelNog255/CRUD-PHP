@@ -5,11 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
-    <script src="./cod.js"></script>
-
     <title>Home</title>
 </head>
 <body>
+    <script src="./cod.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
