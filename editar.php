@@ -1,7 +1,7 @@
 <div class="_topBody">
     <h1>Editar Contato</h1>
     <div class="_forms">
-        <?php     
+        <?php     //Usando _SESSION para passar informação entre requisições
             print '
                 <form class="row g-3 needs-validation" action="?page=concluirEditar&id='.$_SESSION['contatoEditar']['id'].'" method="POST">
                     
