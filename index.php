@@ -10,6 +10,7 @@
     <script src="js/bootstrap.bundle.min.js"></script>
     <title id="titleSite">Contatos</title>
 </head>
+
 <body>
     <nav class="navbar navbar-expand-lg bg-body-tertiary">  
         <div class="container-fluid">
@@ -26,8 +27,8 @@
             </div>
         </div>
     </nav>
-    <div class="">
     
+    <div class="">
     <?php
         include("config.php");      //Configuração e conexão com o banco de dados
         
