@@ -27,7 +27,7 @@
             </div>
         </div>
     </nav>
-    
+     
     <div class="">
     <?php
         include("config.php");      //Configuração e conexão com o banco de dados
