@@ -1,0 +1,12 @@
+._topBody{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+._table{
+    width: 80%;
+}
+._forms{
+    width: 80%;
+}
